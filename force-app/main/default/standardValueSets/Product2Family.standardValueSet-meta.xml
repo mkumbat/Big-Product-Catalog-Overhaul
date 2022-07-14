@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>None</fullName>
+        <default>false</default>
+        <label>None</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CI/CD</fullName>
+        <default>false</default>
+        <label>CI/CD</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pipeline</fullName>
+        <default>false</default>
+        <label>Pipeline</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Change Management</fullName>
+        <default>false</default>
+        <label>Change Management</label>
+    </standardValue>
+    <standardValue>
+        <fullName>DevOps</fullName>
+        <default>false</default>
+        <label>DevOps</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CPQ Family</fullName>
+        <default>false</default>
+        <label>CPQ Family</label>
+    </standardValue>
+</StandardValueSet>
